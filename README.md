@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Dharanidharan
+![image](https://github.com/user-attachments/assets/896c89ea-a3a2-4287-ae6f-e1c7c444bab0)## Hi there 👋 It's me Dharanidharan
 
 Computer Science and Engineering Student @ Anna university Regional Campus Madurai
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">       
@@ -12,7 +12,7 @@ Computer Science and Engineering Student @ Anna university Regional Campus Madur
 - ⚡ Fun fact: i know DSA
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src= "https://icons8.com/icon/38294/java-coffee-cup-logo" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src= "https://img.icons8.com/?size=48&id=Pd2x9GWu9ovX&format=png " />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>    
 
 ### IDE and Tools I Use
